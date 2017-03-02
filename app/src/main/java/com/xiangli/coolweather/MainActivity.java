@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
         int a =2;
         String.valueOf(a);
         String A = "SDSS";
+        ssffaffff;
         String s = "2123";
 
 
