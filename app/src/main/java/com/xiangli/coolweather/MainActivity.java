@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setcontentview(R.layout.activity_main);
         int a =2;
         String.valueOf(a);
+        String f = "ss";
         String A = "SDSS";
         String s = "2123";
 
